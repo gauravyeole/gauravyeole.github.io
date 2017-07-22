@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Gaurav Yeole's Homepage"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Gaurav Yeole"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gauravyeole.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gauravyeole/gauravyeole.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,25 +77,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Gaurav Yeole"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Hi, I am Gaurav Yeole. I am graduate student of Electrical and Computer Engineering, at University of Florida"
+  location         : "Gainesville, FL"
+  email            : "gauravyeole@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/gauravyeole15"
   foursquare       :
-  github           :
+  github           : "https://github.com/gauravyeole"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/gauravyeole/?hl=en"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gauravyeole/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
