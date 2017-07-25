@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Gaurav Yeole"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "./assets/images/bio-photo.jpg"
   bio              : "Hi, I am Gaurav Yeole. I am graduate student of Electrical and Computer Engineering, at University of Florida"
   location         : "Gainesville, FL"
   email            : "gauravyeole@gmail.com"
